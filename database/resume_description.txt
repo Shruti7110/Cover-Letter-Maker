@@ -1,0 +1,61 @@
+Name: Shruti Pawar
+Contact Mail : shruti.pawar0713@gmail.com
+
+WHY ME?
+I bring in a unique blend of hardware and software expertise giving an Interdisciplinary Edge. Having worked on projects which required designing and deploying using electronic and coding skillset to build innovative integrated solutions.
+Here’s what sets me apart:
+•	Strong Technical Acumen – Proficient in Python and AI/ML models, with a problem-solving mindset
+•	Quick adaptability and self driven– Successfully transitioned from Electrical Engineering to AI, leveraging interdisciplinary knowledge to create impactful solutions.
+
+EDUCATION
+MKSSS Cummins College of Engineering
+B-TECH Instrumentation and Control Engineering	CGPA-8.61
+
+SKILLS SUMMARY
+Generative AI:	LLMs, multi-shot prompting, RAG, Fine-tuning
+Machine Learning: ML models, TensorFlow, PyTorch, OpenCV, MLOps, Computer Vision
+Deep Learning:	Transformer models, CNN, RNN, Tensorflow pipelines
+Programming Languages:	Python, C++
+Embedded: Digital electronics and circuit analysis
+Data and Automation: Power BI, MATLAB, Anaconda, Excel, Git
+
+WORK EXPERIENCE 
+Baxter International | Electrical Engineer 1 | Bangalore			Aug 2023 – Apr 2025
+•	Proficient in understanding, interpreting and making schematics for effective design and troubleshooting. 
+•	Worked on POC like Pump's Motor Predictive Maintance, Real time Sensor Dashboard, Hardware in Loop which enabled inter domain working and got to know different sensors and its integration on software and hardware level. 
+•	Performed data curation and analysis for field data using various tools like Power BI, Excel, Matlab and Anaconda.
+
+
+Extra Projects outside work experience
+Brain Tumor Detection
+Developed a brain tumor detection system utilizing YOLOv10, a cutting-edge real-time object detection model, to identify tumors in MRI scans. Integrated a curated MRI dataset via Roboflow and implemented a user-friendly interface using Gradio for seamless deployment. Employed transfer learning with COCO-pretrained weights to enhance model accuracy.
+
+Event Planner RAG
+AI-powered chatbot designed to assist Event planner using RAG model. It integrates LangChain, OpenAI GPT, and ChromaDB to provide intelligent recommendations based on user queries. Users can further train the model to better understand specific data and edge use cases, increasing accuracy by 25%
+
+Motor Predictive Maintenance
+Detecting motor anomalies by analyzing real-time accelerometer and gyroscope data. Trained a neural network model with both normal and abnormal motor condition data, further converted into a TensorFlow Lite model for deployment on Arduino devices.
+
+IPO data extraction Bot
+An interactive web application designed to help users get relevant data from IPO ‘s DRHP file on the entered company name. The application demonstrate how precise source prompts enhance data scraping accuracy which using GPT-4-0-mini API , with an intuitive interface built using Gradio.
+
+
+CERTIFICATIONS AND COURSES
+•	LLM Engineering: Master AI, Large Language Models & Agents (Udemy)
+•	AI for Everyone (Coursera)
+•	Foundation course on Embedded C programming using STM32 Microcontroller (Udemy)
+•	100 Days of Code: The Complete Python Pro Bootcamp (Udemy)
+•	Fundamental of MATLAB and Simulink (MathWorks)
+
+EXTRA-CURRICULUM
+•	Participated in District level Badminton Competition.
+•	Secured a Top 100 finish in the highly competitive Kaggle Spaceship Titanic ML competition.
+•	Runner’s Up in Wab-Tech Exceed 2.0 for Bogie Monitoring System solution.
+•	Participated and got awards in multiple competitions through Robotics team Aaveg during college.
+
+
+
+
+
+
+
