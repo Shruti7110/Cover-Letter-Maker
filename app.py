@@ -137,7 +137,7 @@ Shruti Pawar
 **[Paragraph 4]** – Close with a confident statement of interest, willingness to contribute, and a call to action (e.g., looking forward to discussing further).
 
 **Thanks & Regards,\n
-    Shruti Pawar**
+    {Candidant Name} **
 
 ---
 
@@ -147,10 +147,10 @@ Shruti Pawar
 - Tailor tone slightly based on the company's industry (formal for finance, warm for startups, etc.)
 - Keep it professional, enthusiastic, and to the point.
 
-"""
 
-# --------------------------------------------------------------
-# Step 3: Implement orchestrator
+"""
+# -------------------------------------------------------------- 
+# Step 3: Implement Orchestrator
 # --------------------------------------------------------------
     
 class CVOrchestrator:
@@ -286,5 +286,7 @@ if __name__ == "__main__":
     plan = orchestrator.get_plan(JD_file_path, 1000) #save the Job description in a structured format using tools and get the plan
     orchestrator.save_other_details(f"database/{plan.company_name}/{plan.job_title}/other_details.md") #save all the details to a markdown file
     section = orchestrator.write_sections(plan.sections, resume_text) #write the sections of the cover letter using tools
-    orchestrator.save_letter(f"database/{plan.company_name}/{plan.job_title}/Shruti_Pawar_Cover_Letter.txt", section) #save the cover letter to a file
+    orchestrator.save_letter(f"database/{plan.company_name}/{plan.job_title}/{resume_data.name}_Cover_Letter.txt", section) #save the cover letter to a file
     print("Cover letter generated and saved successfully!")
+    
+    
